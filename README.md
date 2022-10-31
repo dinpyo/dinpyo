@@ -1,6 +1,6 @@
 <br />
 
-<h1> Hi, I'm  </h1>
+<h1> Hi, I'm Hong Jin Pyo  </h1>
 
 <br />
 <h2> My tech stack 📚 </h2>
