@@ -1,4 +1,4 @@
-<h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
+<h1> Hi, I'm DinPyo </h1>
 
 <br />
 <h2> My tech stack 📚 </h2>
