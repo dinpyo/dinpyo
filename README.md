@@ -11,3 +11,7 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dinpyo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/?????" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
+url=https%3A%2F%2Fgithub.com%2Fdinpyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
