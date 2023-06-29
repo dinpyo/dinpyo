@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요 ! </h1>
-<p>Welcome to my page! </br> <b>백엔드</b> 개발자 홍진표입니다. </p> 
+<p> <b>백엔드</b> 개발자 홍진표입니다. </p> 
 
 <h3>Things I code with</h3>
 
