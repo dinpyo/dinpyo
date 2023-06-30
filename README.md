@@ -30,7 +30,7 @@
 </div>  
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dinpyo&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dinpyo&show_icons=true&theme=tokyonight"/>
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinpyo&layout=compact&theme=tokyonight)
