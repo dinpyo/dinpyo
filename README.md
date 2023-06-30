@@ -29,7 +29,5 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>  
 
-<br>
-<br>
-<!-- 총합 -->
+### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=dinpyo&show_icons=true&theme=dark"/>
