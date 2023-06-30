@@ -33,4 +33,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dinpyo&show_icons=true&theme=dark"/>
 
 ### Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/dinpyo)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinpyo)](https://solved.ac/dinpyo)
