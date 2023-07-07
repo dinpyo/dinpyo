@@ -36,4 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinpyo&layout=compact&theme=tokyonight)
 
 ### Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinpyo)](https://solved.ac/dinpyo)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dinpyo)](https://solved.ac/dinpyo/)
