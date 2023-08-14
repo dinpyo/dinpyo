@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20HongJinPyo%20%20&height=200&fontSize=100)
 
 ### 📫 How to reach me
-- 포트폴리오: https://dinpyo.github.io
-- 이력서: 
-- 이메일: dinpyo@naver.com
+- 포트폴리오 : https://dinpyo.github.io
+- 이력서 : 
+- 이메일 : dinpyo@naver.com
 ## ⚙️ Tech Stack
 ### Front
 <div>
@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/MyBatis-C41E25?style=for-the-badge&logo=Thunderbird&logoColor=white"/>
 </div>
 
-### DATABASE
+### Database
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
-### TOOL
+### Tool
 <div> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
